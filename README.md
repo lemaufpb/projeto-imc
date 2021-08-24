@@ -1,2 +1,3 @@
 # projeto-imc
-Projeto IMC
+Projeto IMC - Primeira versão.
+
